@@ -53,7 +53,6 @@ Q&A
 
 ![](Screenshot%202023-09-01%20at%2018.07.33.png)
 
-
 *Containerized applications* -> Amazon Elastic Container Service (Amazon ECS)
 *Containers* provide you with a standard way to package your application’s code and dependencies into a single object.  To ensure that the application’s environment remains consistent regardless of deployment. When running containerised applications, it’s important to consider *scalability*.
 
